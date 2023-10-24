@@ -10,7 +10,7 @@ I'm Tihasha Rafa, a Laravel Web Developer, looking to enhance my professional ex
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-TihashaRafa-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tihasha-rafa/) [![Mail Badlinkedge](https://img.shields.io/badge/-TihashaRafa-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rafatisha.98@gmail.com) ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
+[![Linkedin Badge](https://img.shields.io/badge/-TihashaRafa-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tihasha-rafa/) [![Mail Badlinkedge](https://img.shields.io/badge/-TihashaRafa-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rafatisha.98@gmail.com) 
 
 <br />
 
@@ -26,7 +26,7 @@ I'm Tihasha Rafa, a Laravel Web Developer, looking to enhance my professional ex
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
 <br />
 
